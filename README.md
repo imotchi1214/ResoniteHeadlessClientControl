@@ -8,7 +8,7 @@ Japanese followed by English.
 
 ## 🖼イメージ  
 
-![Uploading Resonite_イメージ.png…]()
+![ResoniteHeadlessClientControl_1](https://github.com/imotchi1214/ResoniteHeadlessClientControl/assets/70529267/a64a415f-b1f3-4f00-b8c1-1f7fa0ed636e)
 
 ## ⬇アプリケーションの入手
 
