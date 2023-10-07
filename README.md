@@ -44,6 +44,8 @@ Japanese followed by English.
 
   3. 「RHCC」フォルダの「ResoniteHeadlessClientControl.exe」を実行してください。  
      「windowsによってpcが保護されました」と表示された場合は、「詳細情報」のリンクをクリックすることで「実行」ボタンが表示されます。
+     ![image](https://github.com/imotchi1214/ResoniteHeadlessClientControl/assets/70529267/6092b71b-a873-4810-8c39-f506dd612b11)
+
 
 ---
 
