@@ -24,7 +24,26 @@ Japanese followed by English.
 
 ## 🔎インストール方法やその他操作方法など
 
-　こちらの[Wiki](https://github.com/imotchi1214/ResoniteHeadlessClientControl/wiki)をご確認ください。
+1. [最新版](https://github.com/imotchi1214/ResoniteHeadlessClientControl/releases/tag/1.0.0)より、「RHCC.zip」をダウンロードします。
+
+### ✨新規の場合
+
+ 1-1. ダウンロードした「RHCC.zip」を解凍し任意の場所※に配置してください。
+
+### 🔄更新の場合
+
+ 1-2. 古い「RHCC」フォルダを削除し、「新規の場合」同様に配置してください。  
+      なおHeadlessConfigファイルは退避するなりしておいてください。  
+ 
+**アプリの自動更新機能を有効にしている場合は上記の手順は不要です。**  
+
+   ※「Program Files(x86)」などの書き込みが制限されるフォルダへ配置すると正常に動作しないため、  
+      Cドライブ直下やデスクトップなど別のフォルダへ配置してください。  
+
+### ⚡起動
+
+  3. 「RHCC」フォルダの「ResoniteHeadlessClientControl.exe」を実行してください。  
+     「windowsによってpcが保護されました」と表示された場合は、「詳細情報」のリンクをクリックすることで「実行」ボタンが表示されます。
 
 ---
 
