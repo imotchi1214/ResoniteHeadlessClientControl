@@ -8,7 +8,7 @@ Japanese followed by English.
 
 ## 🖼イメージ  
 
-![Image1_JA_RHCC_640](https://user-images.githubusercontent.com/70529267/177363902-19972f6d-cf9d-48b1-a262-82bbedbe929d.png)
+![Uploading Resonite_イメージ.png…]()
 
 ## ⬇アプリケーションの入手
 
@@ -38,7 +38,7 @@ Japanese followed by English.
 
 ## 🖼Impression [Language Setting English]  
 
-![Image2_EN_RHCC_640](https://user-images.githubusercontent.com/70529267/178275056-f04a9bfb-1c80-4330-a265-0d294b27f32b.png)
+in preparation
 
 ## Get the application
 
